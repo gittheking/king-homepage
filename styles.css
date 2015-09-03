@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+body {
+	font-family: 'Source Code Pro';
+	color: #ffffff;
+	background-color: #272822;
+	font-size: 30px;
+}
+
+span {
+	margin: 0;
+}	
+
+.loading-container {
+	width:300px;
+	margin: auto;
+}
+
+.spin-it-L {
+	font-weight: bolder;
+}
