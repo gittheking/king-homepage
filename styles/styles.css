@@ -3,7 +3,7 @@
 body {
 	font-family: 'Source Code Pro';
 	color: #ffffff;
-	background-color: #272822;
+	background-color: #1A1A1A;
 	font-size: 30px;
 }
 
@@ -14,6 +14,9 @@ span {
 .loading-container {
 	width:300px;
 	margin: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .spin-it-L {
